@@ -45,6 +45,14 @@ const TEXT_COLORS: BubbleColorMenuItem[] = [
     name: "Gray",
     color: "#A8A29E",
   },
+  {
+    name: "Beige",
+    color: "#F5F5DC",
+  },
+  {
+    name: "White",
+    color: "#FFFFFF",
+  },
 ];
 
 const HIGHLIGHT_COLORS: BubbleColorMenuItem[] = [
@@ -83,6 +91,14 @@ const HIGHLIGHT_COLORS: BubbleColorMenuItem[] = [
   {
     name: "Gray",
     color: "var(--novel-highlight-gray)",
+  },
+  {
+    name: "Beige",
+    color: "var(--novel-highlight-beige)",
+  },
+  {
+    name: "White",
+    color: "var(--novel-highlight-white)",
   },
 ];
 
